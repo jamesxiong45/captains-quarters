@@ -1,0 +1,366 @@
+[
+    {
+        "name": "Adrenaline Surge",
+        "activation": 12,
+        "strain": 2,
+        "range": "Self Only",
+        "description": "+1 action during this activation, and +1 action during next activation."
+    },
+    {
+        "name": "Antigravity Projection",
+        "activation": 10,
+        "strain": 0,
+        "range": "Line of Sight",
+        "description": "The target figure gains the Levitate attribute for the rest of the game."
+    },
+    {
+        "name": "Armour Plates",
+        "activation": 10,
+        "strain": 2,
+        "range": "Self Only",
+        "description": "The figure gains +2 Armour. This power can't be used if the figure is already wearing combat armor."
+    },
+    {
+        "name": "Armoury",
+        "activation": 10,
+        "strain": 0,
+        "range": "Out of Game",
+        "description": "The crew can field one suit of combat armor without having to pay it's normal upkeep cost.  Or you can give your weapon a +1 damage for the next game."
+    },
+    {
+        "name": "Bait and Switch",
+        "activation": 12,
+        "strain": 2,
+        "range": "Line of Sight",
+        "description": "Target figure with loot token must make a Will Roll (TN14). If failed, the figure drops the token and the activator may move it up to 4 inches in any direction."
+    },
+    {
+        "name": "Break Lock",
+        "activation": 12,
+        "strain": 1,
+        "range": "Line of Sight",
+        "description": "Unlocks one physical loot counter."
+    },
+    {
+        "name": "Bribe",
+        "activation": 14,
+        "strain": 0,
+        "range": "Out of Game",
+        "description": "If successful, place one bribe token next to the table and make your opponent aware of it. At any point in the game, when your opponent declares that a soldier is making a Shoot attack before dice are rolled, you may play your bribe token, causing the attack to miss (only once per game)."
+    },
+    {
+        "name": "Camouflage",
+        "activation": 10,
+        "strain": 2,
+        "range": "Self Only",
+        "description": "No figure may draw line of sight to this figure if it is more than 12 inches away. Also it gains +2 Fight agains Shooting attacks"
+    },
+    {
+        "name": "Cancel Power",
+        "activation": 12,
+        "strain": 1,
+        "range": "Line of Sight",
+        "description": "Cancels effects of one ongoing LOS power"
+    },
+    {
+        "name": "Command",
+        "activation": 10,
+        "strain": 0,
+        "range": "Line of Sight",
+        "description": "Select one crew member. That figure now activates in current player's phase of turn."
+    },
+    {
+        "name": "Concealed Firearm",
+        "activation": 10,
+        "strain": 1,
+        "range": "Self Only",
+        "description": "Only while in combat, target may make +5 Shooting attack. If it hits shoot target is pushed 1 inch and stunned."
+    },
+    {
+        "name": "Control Animal",
+        "activation": 10,
+        "strain": 1,
+        "range": "Line of Sight",
+        "description": "Target animal must make Will Roll (TN16) or become temporary member of crew."
+    },
+    {
+        "name": "Control Robot",
+        "activation": 10,
+        "strain": 1,
+        "range": "Line of Sight",
+        "description": "Target robot must make Will Roll (TN15) or become temporary member of crew."
+    },
+    {
+        "name": "Coordinated Fire",
+        "activation": 10,
+        "strain": 0,
+        "range": "Line of Sight",
+        "description": "Target crew member gets +1 Shoot for rest of game."
+    },
+    {
+        "name": "Create Robot",
+        "activation": 14,
+        "strain": 0,
+        "range": "Out of Game",
+        "description": "Add one robot soldier to crew without cost."
+    },
+    {
+        "name": "Dark Energy",
+        "activation": 10,
+        "strain": 1,
+        "range": "Line of Sight",
+        "description": "Make +5 Shoot attack against enemy within 12 inches. Ignores Armour. +7 Shoot vs robots."
+    },
+    {
+        "name": "Data Jump",
+        "activation": 10,
+        "strain": 1,
+        "range": "Line of Sight",
+        "description": "Targets crew carrying data-loot token. Can move token to another crew member."
+    },
+    {
+        "name": "Data Knock",
+        "activation": 12,
+        "strain": 1,
+        "range": "Line of Sight",
+        "description": "Unlocks one data-loot counter."
+    },
+    {
+        "name": "Data Skip",
+        "activation": 12,
+        "strain": 2,
+        "range": "Line of Sight",
+        "description": "If data-loot token not carried, caster can move it 4 inches in any direction. If being carried, carrier must Will Roll (TN16) or it is moved from them."
+    },
+    {
+        "name": "Destroy Weapon",
+        "activation": 12,
+        "strain": 2,
+        "range": "Line of Sight",
+        "description": "Destroys one weapon carried by enemy target."
+    },
+    {
+        "name": "Drone",
+        "activation": 10,
+        "strain": 1,
+        "range": "Touch",
+        "description": "Place drone next to caster. Counts as crew member for rest of game. Can deliver caster Touch powers."
+    },
+    {
+        "name": "Electromagnetic Pulse",
+        "activation": 10,
+        "strain": 1,
+        "range": "Line of Sight",
+        "description": "If targets a robot, robot must make Will Roll (TN18). If fails it takes no actions next activation. If non-robot, weapon jams and has -1 damage for rest of game."
+    },
+    {
+        "name": "Energy Shield",
+        "activation": 10,
+        "strain": 0,
+        "range": "Self Only",
+        "description": "Creates shield around caster that absorbs next 3 points of damage."
+    },
+    {
+        "name": "Fling",
+        "activation": 8,
+        "strain": 1,
+        "range": "Self Only or Touch",
+        "description": "May move crew member 6 inches immediately but it is stunned after move. Or enemy target must make Fight Roll (TN16) or be moved 6 inches and is stunned."
+    },
+    {
+        "name": "Fortune",
+        "activation": 12,
+        "strain": 0,
+        "range": "Self Only",
+        "description": "Place a fortune token next to caster. Can use token to reroll a Combat, Shooting or Stat roll."
+    },
+    {
+        "name": "Haggle",
+        "activation": 10,
+        "strain": 0,
+        "range": "Out of Game",
+        "description": "When selling, crew receives 20% more than usual price."
+    },
+    {
+        "name": "Heal",
+        "activation": 10,
+        "strain": 0,
+        "range": "Line of Sight",
+        "description": "Heals up to 5 points of health on target within 6 inches."
+    },
+    {
+        "name": "Holographic Wall",
+        "activation": 10,
+        "strain": 1,
+        "range": "Line of Sight",
+        "description": "Creates wall 6 inches x 3 inches. Line of sight cannot be drawn through it but can move through it."
+    },
+    {
+        "name": "Life Leach",
+        "activation": 10,
+        "strain": 0,
+        "range": "Line of Sight",
+        "description": "Target must make a Will Roll (TN15) or lose 3 health and caster gains 3 health."
+    },
+    {
+        "name": "Lift",
+        "activation": 10,
+        "strain": 0,
+        "range": "Line of Sight",
+        "description": "Move target crew member 6 inches, even vertically."
+    },
+    {
+        "name": "Mystic Trance",
+        "activation": 8,
+        "strain": 0,
+        "range": "Out of Game",
+        "description": "If activated, figure may attempt one other non-targeting power before initiative."
+    },
+    {
+        "name": "Power Spike",
+        "activation": 8,
+        "strain": 1,
+        "range": "Self Only",
+        "description": "Next Shooting attack does +3 damage."
+    },
+    {
+        "name": "Psionic Fire",
+        "activation": 10,
+        "strain": 1,
+        "range": "Self Only",
+        "description": "Caster places 2 flamethower templates. Figures in path suffer +3 flamethrower attack."
+    },
+    {
+        "name": "Pull",
+        "activation": 12,
+        "strain": 1,
+        "range": "Line of Sight",
+        "description": "Target figure must make Will Roll (TN16) or be moved 6 inches in any direction."
+    },
+    {
+        "name": "Puppet Master",
+        "activation": 12,
+        "strain": 2,
+        "range": "Touch",
+        "description": "Non-robot crew at 0 health returns to table with 1 health and is wounded."
+    },
+    {
+        "name": "Psychic Shield",
+        "activation": 10,
+        "strain": 2,
+        "range": "Line of Sight",
+        "description": "Target takes half damage from next shooting attack against it."
+    },
+    {
+        "name": "Regenerate",
+        "activation": 8,
+        "strain": 0,
+        "range": "Self Only",
+        "description": "Caster regains up to 3 health."
+    },
+    {
+        "name": "Remote Guidance",
+        "activation": 10,
+        "strain": 0,
+        "range": "Out of Game or Touch",
+        "description": "Targets robot crew member. Target activates at same time as caster."
+    },
+    {
+        "name": "Remote Firing",
+        "activation": 10,
+        "strain": 0,
+        "range": "Line of Sight",
+        "description": "Targets robot crew member. Target makes immediate +3 Shooting attack."
+    },
+    {
+        "name": "Repair Robot",
+        "activation": 10,
+        "strain": 0,
+        "range": "Line of Sight",
+        "description": "Targets robot crew member. Target regains up to +5 health."
+    },
+    {
+        "name": "Restructure Body",
+        "activation": 10,
+        "strain": 0,
+        "range": "Self Only",
+        "description": "Caster gains one of following: Amphibious, Burrowing, Expert Climber, Immune to Criticals, Immune to Toxins, or Never Wounded."
+    },
+    {
+        "name": "Quick-Step",
+        "activation": 10,
+        "strain": 1,
+        "range": "Self Only",
+        "description": "Caster may immediately move 4 inches, even out of engagement."
+    },
+    {
+        "name": "Re-wire Robot",
+        "activation": 14,
+        "strain": 0,
+        "range": "Out of Game",
+        "description": "May enhance robot crew +1 to Move, Shoot, Fight or Armour but suffers -1 Will."
+    },
+    {
+        "name": "Suggestion",
+        "activation": 12,
+        "strain": 1,
+        "range": "Line of Sight",
+        "description": "Target must make Will Roll (TN16) or drop any loot it is carrying and be moved by caster 3 inches."
+    },
+    {
+        "name": "Target Designation",
+        "activation": 8,
+        "strain": 0,
+        "range": "Line of Sight",
+        "description": "Target figure takes -2 Fight when rolling against a Shoot attack for rest of battle."
+    },
+    {
+        "name": "Target Lock",
+        "activation": 10,
+        "strain": 1,
+        "range": "Touch",
+        "description": "Caster makes immediate grenade attack in range, doesn't need line of sight."
+    },
+    {
+        "name": "Temporary Upgrade",
+        "activation": 12,
+        "strain": 0,
+        "range": "Self Only",
+        "description": "Caster adds +1 to Move, Fight, Shoot or Armour, or +3 Will."
+    },
+    {
+        "name": "Toxic Claws",
+        "activation": 10,
+        "strain": 1,
+        "range": "Self Only",
+        "description": "Caster grows claws that are Toxic and do +2 damage."
+    },
+    {
+        "name": "Toxic Secretion",
+        "activation": 12,
+        "strain": 0,
+        "range": "Out of Game",
+        "description": "Caster selects up to 2 crew (can include self). All attacks from those count as Toxic."
+    },
+    {
+        "name": "Transport",
+        "activation": 10,
+        "strain": 1,
+        "range": "Line of Sight",
+        "description": "Targets crew within 12 inches. Target can be moved 6 inches in any direction."
+    },
+    {
+        "name": "Void Blade",
+        "activation": 10,
+        "strain": 0,
+        "range": "Self Only",
+        "description": "Caster's hand weapon gains +2 damage, gains +3 Fight against Shooting attacks."
+    },
+    {
+        "name": "Wall of Force",
+        "activation": 12,
+        "strain": 1,
+        "range": "Self Only",
+        "description": "Creates indestructable wall 6 inches x 3 inches."
+    }
+]

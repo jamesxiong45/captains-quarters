@@ -1,0 +1,240 @@
+[
+    {
+        "name": "Recruit",
+        "stats": {
+            "move": 6,
+            "fight": 2,
+            "shoot": 2,
+            "armor": 10,
+            "will": 0,
+            "health": 12,
+            "cost": 0
+        },
+        "gear": ["Pistol", "Light Armor", "Knife"],
+        "soldierType": "standard"
+    },
+    {
+        "name": "Runner",
+        "stats": {
+            "move": 7,
+            "fight": 2,
+            "shoot": 1,
+            "armor": 9,
+            "will": 1,
+            "health": 12,
+            "cost": 0
+        },
+        "gear": ["Pistol", "Knife"],
+        "soldierType": "standard"
+    },
+    {
+        "name": "Hacker",
+        "stats": {
+            "move": 6,
+            "fight": 1,
+            "shoot": 1,
+            "armor": 10,
+            "will": 1,
+            "health": 12,
+            "cost": 20
+        },
+        "gear": ["Pistol", "Deck", "Light Armor", "Knife"],
+        "soldierType": "standard"
+    },
+    {
+        "name": "Chiseler",
+        "stats": {
+            "move": 6,
+            "fight": 1,
+            "shoot": 1,
+            "armor": 10,
+            "will": 1,
+            "health": 12,
+            "cost": 20
+        },
+        "gear": ["Pistol", "Picks", "Light Armor", "Knife"],
+        "soldierType": "standard"
+    },
+    {
+        "name": "Guard Dog",
+        "stats": {
+            "move": 8,
+            "fight": 1,
+            "shoot": 0,
+            "armor": 8,
+            "will": -2,
+            "health": 10,
+            "cost": 10
+        },
+        "gear": [],
+        "soldierType": "standard"
+    },
+    {
+        "name": "Sentry",
+        "stats": {
+            "move": 5,
+            "fight": 3,
+            "shoot": 2,
+            "armor": 11,
+            "will": 0,
+            "health": 14,
+            "cost": 50
+        },
+        "gear": ["Carbine", "Heavy Armor", "Hand Weapon"],
+        "soldierType": "standard"
+    },
+    {
+        "name": "Trooper",
+        "stats": {
+            "move": 5,
+            "fight": 2,
+            "shoot": 3,
+            "armor": 11,
+            "will": 0,
+            "health": 14,
+            "cost": 50
+        },
+        "gear": ["Carbine", "Heavy Armor", "Knife"],
+        "soldierType": "standard"
+    },
+    {
+        "name": "Medic",
+        "stats": {
+            "move": 7,
+            "fight": 2,
+            "shoot": 2,
+            "armor": 10,
+            "will": 3,
+            "health": 14,
+            "cost": 100
+        },
+        "gear": ["Pistol", "Light Armor", "Medic Kit"],
+        "soldierType": "standard"
+    },
+    {
+        "name": "Codebreaker",
+        "stats": {
+            "move": 6,
+            "fight": 3,
+            "shoot": 2,
+            "armor": 10,
+            "will": 2,
+            "health": 14,
+            "cost": 75
+        },
+        "gear": ["Carbine", "Deck", "Light Armor", "Knife"],
+        "soldierType": "specialist"
+    },
+    {
+        "name": "Casecracker",
+        "stats": {
+            "move": 6,
+            "fight": 3,
+            "shoot": 2,
+            "armor": 10,
+            "will": 2,
+            "health": 14,
+            "cost": 75
+        },
+        "gear": ["Carbine", "Picks", "Light Armor", "Knife"],
+        "soldierType": "specialist"
+    },
+    {
+        "name": "Commando",
+        "stats": {
+            "move": 5,
+            "fight": 3,
+            "shoot": 3,
+            "armor": 11,
+            "will": 1,
+            "health": 14,
+            "cost": 75
+        },
+        "gear": ["Carbine", "Grenades", "Heavy Armor", "Hand Weapon"],
+        "soldierType": "specialist"
+    },
+    {
+        "name": "Pathfinder",
+        "stats": {
+            "move": 7,
+            "fight": 3,
+            "shoot": 3,
+            "armor": 10,
+            "will": 2,
+            "health": 14,
+            "cost": 100
+        },
+        "gear": ["Carbine", "Grenades", "Light Armor", "Hand Weapon"],
+        "soldierType": "specialist"
+    },
+    {
+        "name": "Sniper",
+        "stats": {
+            "move": 6,
+            "fight": 3,
+            "shoot": 4,
+            "armor": 10,
+            "will": 3,
+            "health": 14,
+            "cost": 100
+        },
+        "gear": ["Carbine", "Grenades", "Light Armor", "Hand Weapon"],
+        "soldierType": "specialist"
+    },
+    {
+        "name": "Grenadier",
+        "stats": {
+            "move": 5,
+            "fight": 3,
+            "shoot": 3,
+            "armor": 11,
+            "will": 2,
+            "health": 14,
+            "cost": 100
+        },
+        "gear": ["Grenade Launcher", "Pistol", "Heavy Armor", "Knife"],
+        "soldierType": "specialist"
+    },
+    {
+        "name": "Burner",
+        "stats": {
+            "move": 5,
+            "fight": 3,
+            "shoot": 2,
+            "armor": 11,
+            "will": 1,
+            "health": 14,
+            "cost": 100
+        },
+        "gear": ["Flamethrower", "Pistol", "Heavy Armor", "Knife"],
+        "soldierType": "specialist"
+    },
+    {
+        "name": "Gunner",
+        "stats": {
+            "move": 5,
+            "fight": 3,
+            "shoot": 3,
+            "armor": 11,
+            "will": 1,
+            "health": 14,
+            "cost": 100
+        },
+        "gear": ["Rapid-fire", "Pistol", "Heavy Armor", "Knife"],
+        "soldierType": "specialist"
+    },
+    {
+        "name": "Armored Trooper",
+        "stats": {
+            "move": 6,
+            "fight": 4,
+            "shoot": 4,
+            "armor": 13,
+            "will": 3,
+            "health": 14,
+            "cost": 150
+        },
+        "gear": ["Carbine", "Combat Armor"],
+        "soldierType": "specialist"
+    }
+]

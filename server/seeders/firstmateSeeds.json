@@ -1,0 +1,55 @@
+[
+    {
+        "name": "Tom",
+        "background": "Mystic",
+        "stats": {
+            "move": 6,
+            "fight": 3,
+            "shoot": 2,
+            "armor": 9,
+            "will": 4,
+            "health": 15
+        },
+        "powers": ["Dark Energy", "Heal", "Suggestion", "Void Blade"]
+    },
+    {
+        "name": "Dick",
+        "background": "Rogue",
+        "stats": {
+            "move": 6,
+            "fight": 2,
+            "shoot": 3,
+            "armor": 9,
+            "will": 4,
+            "health": 15
+        },
+        "powers": ["Cancel Power", "Concealed Firearm", "Forutne", "Quick-Step"]
+    },
+    {
+        "name": "Harry",
+        "background": "Tekker",
+        "stats": {
+            "move": 6,
+            "fight": 3,
+            "shoot": 2,
+            "armor": 9,
+            "will": 4,
+            "health": 15
+        },
+        "powers": ["Drone", "Electromagnetic Pulse", "Transport", "Data Knock"]
+    },
+    {
+        "name": "Fred",
+        "background": "Veteran",
+        "stats": {
+            "move": 6,
+            "fight": 2,
+            "shoot": 3,
+            "armor": 9,
+            "will": 4,
+            "health": 15
+        },
+        "powers": ["Command", "Concentrated Fire", "Energy Shield", "Power Spike"]
+    }
+    
+]

@@ -1,0 +1,54 @@
+POWERS INDEX - 52 total Powers
+
+0   Adrenaline Surge
+1   Antigravity Projection
+2   Armour Plates
+3   Armoury
+4   Bait and Switch
+5   Break Lock
+6   Bribe
+7   Camouflage
+8   Cancel Power
+9   Command
+10  Concealed Firearm
+11  Control Animal
+12  Control Robot
+13  Coordinated Fire
+14  Create Robot
+15  Dark Energy
+16  Data Jump
+17  Data Knock
+18  Data Skip
+19  Destroy Weapon
+20  Drone
+21  Electromagnetic Pulse
+22  Energy Shield
+23  Fling
+24  Fortune
+25  Haggle
+26  Heal
+27  Holographic Wall
+28  Life Leach
+29  Lift
+30  Mystic Trance
+31  Power Spike
+32  Psionic Fire
+33  Pull
+34  Puppet Master
+35  Psychic Shield
+36  Regenerate
+37  Remote Guidance
+38  Remote Firing
+39  Repair Robot
+40  Restructure Body
+41  Quick-Step
+42  Re-Wire Robot
+43  Suggestion
+44  Target Designation
+45  Target Lock
+46  Temporary Upgrade
+47  Toxic Claws
+48  Toxic Secretion
+49  Transport
+50  Void Blade
+51  Wall of Force

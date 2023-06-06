@@ -1,0 +1,23 @@
+ import { User, Captain, Background, FirstMate, CrewChoice } from models
+
+ const createCaptain async
+     check is user logged in
+     Captain.create(new: true)
+        User creates captain name
+        
+    fetch request/get findAll(Background)
+    let backgroundChoice(e) = event.target
+     {$addtoSet} Captain.background
+     return backgroundChoice
+
+     fetch request/get findAll(FirstMates)
+     let firstMateChoice(e) = event.target
+     {$addtoSet} Captain.firstMate
+     return firstMateChoice
+
+     fetch request/get findAll(CrewChoice)
+     let crewChoices(e) = event.target
+     {$addtoSet} Captain.crewMembers
+     return crewChoices
+
+ return finished captain and save to user

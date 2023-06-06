@@ -1,0 +1,186 @@
+[
+    {
+        "name": "Biomorph",
+        "stats": {
+            "move": 6,
+            "fight": 3,
+            "shoot": 2,
+            "armor": 9,
+            "will": 2,
+            "health": 17,
+            "chooseTwo": ["Move", "Fight", "Shoot"]
+            },
+        "corePowers": [
+            "Adrenaline Surge",
+            "Armor Plates",
+            "Camouflage",
+            "Fling",
+            "Regenerate",
+            "Restructure Body",
+            "Toxic Claws",
+            "Toxic Secretions"
+            ]
+        
+    },
+    {
+        "name": "Cyborg",
+        "stats": {
+            "move": 6,
+            "fight": 3,
+            "shoot": 2,
+            "armor": 9,
+            "will": 2,
+            "health": 17,
+            "chooseTwo": ["Move", "Fight", "Shoot"]
+            },
+        "corePowers": [
+            "Camouflage",
+            "Control Robot",
+            "Data Knock",
+            "Energy Shield",
+            "Power Spike",
+            "Quick Step",
+            "Target Lock",
+            "Temporary Upgrade"
+            ]
+        
+    },
+    {
+        "name": "Mystic",
+        "stats": {
+            "move": 6,
+            "fight": 3,
+            "shoot": 2,
+            "armor": 9,
+            "will": 4,
+            "health": 17,
+            "chooseOne": ["Move", "Fight", "Shoot"]
+            },
+        "corePowers": [
+            "Control Animal",
+            "Dark Energy",
+            "Heal",
+            "Life Leach",
+            "Mystic Trance",
+            "Puppet Master",
+            "Suggestion",
+            "Void Blade"
+            ]
+        
+    },
+    {
+        "name": "Robotics Expert",
+        "stats": {
+            "move": 6,
+            "fight": 3,
+            "shoot": 2,
+            "armor": 9,
+            "will": 3,
+            "health": 16,
+            "chooseTwo": ["Move", "Fight", "Shoot"]
+            },
+        "corePowers": [
+            "Control Robot",
+            "Create Robot",
+            "Drone",
+            "Electromagnetic Pulse",
+            "Remote Firing",
+            "Remote Guidance",
+            "Repair Robot",
+            "Re-wire Robot"
+            ]
+        
+    },
+    {
+        "name": "Rogue",
+        "stats": {
+            "move": 6,
+            "fight": 3,
+            "shoot": 2,
+            "armor": 9,
+            "will": 3,
+            "health": 17,
+            "chooseTwo": ["Move", "Fight", "Shoot"]
+            },
+        "corePowers": [
+            "Bait and Switch",
+            "Bribe",
+            "Cancel Power",
+            "Concealed Firearm",
+            "Data Jump",
+            "Fortune",
+            "Haggle",
+            "Quick-Step"
+            ]
+        
+    },
+    {
+        "name": "Psionicist",
+        "stats": {
+            "move": 6,
+            "fight": 3,
+            "shoot": 2,
+            "armor": 9,
+            "will": 4,
+            "health": 17,
+            "chooseOne": ["Move", "Fight", "Shoot"]
+            },
+        "corePowers": [
+            "Break Lock",
+            "Destroy Weapon",
+            "Lift",
+            "Psionic Fire",
+            "Psychic Shield",
+            "Pull",
+            "Suggestion",
+            "Wall of Force"
+            ]
+        
+    },
+    {
+        "name": "Tekker",
+        "stats": {
+            "move": 6,
+            "fight": 3,
+            "shoot": 2,
+            "armor": 9,
+            "will": 4,
+            "health": 16,
+            "chooseTwo": ["Move", "Fight", "Shoot"]
+            },
+        "corePowers": [
+            "Anti-gravity Projection", 
+            "Data Jump", 
+            "Data Knock", 
+            "Data Skip", 
+            "Drone", 
+            "Electromagnetic Pulse", 
+            "Holographic Wall", 
+            "Transport"
+            ]
+        
+    },
+    {
+        "name": "Veteran",
+        "stats": {
+            "move": 6,
+            "fight": 4,
+            "shoot": 2,
+            "armor": 9,
+            "will": 2,
+            "health": 17,
+            "chooseOne": ["Move", "Fight", "Shoot"]
+            },
+        "corePowers": [
+            "Armoury",
+            "Command",
+            "Coordinated Fire",
+            "Energy Shield",
+            "Fortune",
+            "Power Spike",
+            "Remote Firing",
+            "Target Designation"
+            ]
+        
+    }
+]

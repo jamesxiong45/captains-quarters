@@ -1,0 +1,47 @@
+{
+  "name": "Captain's Quarters",
+  "short_name": "Cap Quarters",
+  "theme_color": "#001827",
+  "background_color": "#001827",
+  "display": "fullscreen",
+  "scope": "/",
+  "start_url": "/",
+  "icons": [
+      {
+          "src": "maskable",
+          "sizes": "196x196",
+          "type": "image/png",
+          "purpose": "any maskable"
+      },
+      {
+          "src": "favicon.ico",
+          "sizes": "64x64 32x32 24x24 16x16",
+          "type": "image/x-icon"
+      },
+      {
+          "src": "stargrave-192",
+          "sizes": "192x192",
+          "type": "image/png"
+      },
+      {
+          "src": "stargrave-256",
+          "sizes": "256x256",
+          "type": "image/png"
+      },
+      {
+          "src": "stargrave-384",
+          "sizes": "384x384",
+          "type": "image/png"
+      },
+      {
+          "src": "stargrave-512",
+          "sizes": "512x512",
+          "type": "image/png"
+      },
+      {
+          "src": "stargrave-1024",
+          "sizes": "1024x1024",
+          "type": "image/png"
+      }
+  ]
+}
